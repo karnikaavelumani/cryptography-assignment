@@ -1,0 +1,2 @@
+cat:$2b$12$LyMdAmdmYCdQq/OLsqqNb.EKvXIyy30kTScVv20kpl4VoPo7vh/zG
+karni:$2b$12$uAcxAKwxUC2RjUmtrHD0DOSrDyatmquM9dTlleQ8ZkA/6pNgCNCVm
